@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-groq
+langchain-google-vertexai
+langchain_mistralai
+langchain-together
+langchain-cerebras
+langchain_huggingface 
+langchain-cohere
+langchain_ai21 
+langchain-openai
+python-dotenv
+ipykernel
+pip
+numexpr
