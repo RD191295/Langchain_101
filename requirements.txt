@@ -13,3 +13,8 @@ python-dotenv
 ipykernel
 pip
 numexpr
+defusedxml
+unstructured 
+wikipedia
+arxiv
+pymupdf
