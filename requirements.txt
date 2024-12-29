@@ -18,10 +18,8 @@ defusedxml
 unstructured 
 wikipedia
 arxiv
-<<<<<<< HEAD
 pymupdf
 faiss-cpu
 docarray
-=======
-pymupdf
->>>>>>> 9fb96756a396a647ae90c27c63e0f9763ebcac69
+langchain_elasticsearch
+langchain_postgres
