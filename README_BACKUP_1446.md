@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> f87a2a1298919c33f8eda2703a618bd9dcf919a4
 # Langchain_101
 ![License](https://img.shields.io/github/license/RD191295/Langchain_101)
 ![Last Commit](https://img.shields.io/github/last-commit/RD191295/Langchain_101)
