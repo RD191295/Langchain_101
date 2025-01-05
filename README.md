@@ -27,18 +27,18 @@ pip install -r requirements.txt
 ## Topics Covered
 | Feature                  | Description                                      | Link |
 |--------------------------|--------------------------------------------------|------|
-| Langchain Introduction  | Overview of Langchain and its capabilities.    | [Read More](#01.langchain) |
-| Chains                  | Learn how to chain multiple components.        | [Read More](#chains) |
-| Prompt Template         | Create and manage dynamic prompts.             | [Read More](#prompt-template) |
-| Memory                  | Utilize memory in Langchain applications.      | [Read More](#memory) |
-| Output Parser           | Parse and handle outputs effectively.          | [Read More](#output-parser) |
-| DataLoaders             | Methods for loading and preprocessing data.    | [Read More](#dataloaders) |
-| Text Splitter           | Split large text into manageable chunks.       | [Read More](#text-splitter) |
-| Embeddings              | Generate vector representations of text.       | [Read More](#embeddings) |
-| VectorStores            | Store and query embeddings efficiently.        | [Read More](#vectorstores) |
-| RAG Intro               | Introduction to Retrieval-Augmented Generation.| [Read More](#rag-intro) |
-| Langchain Expression Language | Advanced scripting in Langchain.             | [Read More](#langchain-expression-language) |
-| Langchain Indexing      | Techniques for indexing and searching data.    | [Read More](#langchain-indexing) |
+| Langchain Introduction  | Overview of Langchain and its capabilities.    | [Read More](#01.Langchain-Introduction) |
+| Chains                  | Learn how to chain multiple components.        | [Read More](#02.Chains) |
+| Prompt Template         | Create and manage dynamic prompts.             | [Read More](#03.Prompt-Template) |
+| Memory                  | Utilize memory in Langchain applications.      | [Read More](#04.Memory) |
+| Output Parser           | Parse and handle outputs effectively.          | [Read More](#05.Output-Parser) |
+| DataLoaders             | Methods for loading and preprocessing data.    | [Read More](#06.DataLoaders) |
+| Text Splitter           | Split large text into manageable chunks.       | [Read More](#07.Text-Splitter) |
+| Embeddings              | Generate vector representations of text.       | [Read More](#08.Embeddings) |
+| VectorStores            | Store and query embeddings efficiently.        | [Read More](#09.VectorStores) |
+| RAG Intro               | Introduction to Retrieval-Augmented Generation.| [Read More](#10.RAG-Intro) |
+| Langchain Expression Language | Advanced scripting in Langchain.             | [Read More](#11.Langchain-Expression-Language) |
+| Langchain Indexing      | Techniques for indexing and searching data.    | [Read More](#12.Langchain-Indexing) |
 
 
 
