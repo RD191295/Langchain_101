@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Topics Covered
 | Feature                  | Description                                      | Link |
 |--------------------------|--------------------------------------------------|------|
-| Langchain Introduction  | Overview of Langchain and its capabilities.    | [Read More](#langchain-introduction) |
+| Langchain Introduction  | Overview of Langchain and its capabilities.    | [Read More](01. Langchain Introduction) |
 | Chains                  | Learn how to chain multiple components.        | [Read More](#chains) |
 | Prompt Template         | Create and manage dynamic prompts.             | [Read More](#prompt-template) |
 | Memory                  | Utilize memory in Langchain applications.      | [Read More](#memory) |
