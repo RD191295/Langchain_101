@@ -25,6 +25,21 @@ cd Langchain_101
 pip install -r requirements.txt
 ```
 ## Topics Covered
+| Feature                  | Description                                      | Link |
+|--------------------------|--------------------------------------------------|------|
+| Langchain Introduction  | Overview of Langchain and its capabilities.    | [Read More](#langchain-introduction) |
+| Chains                  | Learn how to chain multiple components.        | [Read More](#chains) |
+| Prompt Template         | Create and manage dynamic prompts.             | [Read More](#prompt-template) |
+| Memory                  | Utilize memory in Langchain applications.      | [Read More](#memory) |
+| Output Parser           | Parse and handle outputs effectively.          | [Read More](#output-parser) |
+| DataLoaders             | Methods for loading and preprocessing data.    | [Read More](#dataloaders) |
+| Text Splitter           | Split large text into manageable chunks.       | [Read More](#text-splitter) |
+| Embeddings              | Generate vector representations of text.       | [Read More](#embeddings) |
+| VectorStores            | Store and query embeddings efficiently.        | [Read More](#vectorstores) |
+| RAG Intro               | Introduction to Retrieval-Augmented Generation.| [Read More](#rag-intro) |
+| Langchain Expression Language | Advanced scripting in Langchain.             | [Read More](#langchain-expression-language) |
+| Langchain Indexing      | Techniques for indexing and searching data.    | [Read More](#langchain-indexing) |
+
 
 
 ## Usage
